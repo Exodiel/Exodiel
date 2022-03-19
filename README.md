@@ -19,6 +19,7 @@ I learned a lot from the open source community and I love doing the same with ot
 	<img src="https://img.shields.io/badge/Ionic-0079BF?style=for-the-badge&logo=ionic&logoColor=white" alt="ionic" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/node.js%20-339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" alt="node" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/express.js%20-%23000.svg?&style=for-the-badge&logo=express&logoColor=white" alt="express.js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/Vite.svg?&style=for-the-badge&logo=vite&logoColor=yellow" alt="vite.js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/webpack-2F4C84.svg?&style=for-the-badge&logo=webpack&logoColor=white" alt="webpack.js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=for-the-badge&logo=mongodb&logoColor=white" alt="mongo" />&nbsp;&nbsp;
